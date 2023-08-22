@@ -16,8 +16,5 @@
 \|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|> I've been trying to work my way through the Andrew Ng course,\
 \|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;but I've got like 0 free time, so that might not happen\
 \|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
-\|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|> I'm currently diong some undergrad computer vision research at MSU, \
-\|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; if you're interested check out my [EggSearch](https://github.com/RandumbPurson/EggSearch) repo\
-\|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;======================================================\
 &nbsp;&nbsp;======================================================
